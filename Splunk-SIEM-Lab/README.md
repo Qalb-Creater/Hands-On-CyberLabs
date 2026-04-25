@@ -9,3 +9,36 @@
 <img width="959" height="416" alt="project1_9" src="https://github.com/user-attachments/assets/8ab1adf7-993b-45be-8343-92fd0b5040d4" />
 <img width="543" height="345" alt="project1_10" src="https://github.com/user-attachments/assets/fdefc401-a1ef-4810-894d-95ca917845a1" />
 <img width="959" height="290" alt="project1_11" src="https://github.com/user-attachments/assets/7897f2f2-8887-41db-ab61-d09a72f114b5" />
+# 🚀 Splunk SIEM Lab: Brute-Force Detection
+
+## 📋 Project Description
+In this lab, I established a local SOC (Security Operations Center) environment using **Splunk Enterprise**. I simulated a real-world attack scenario by ingesting authentication logs and identifying malicious activity using Search Processing Language (SPL).
+
+---
+
+## 🛠️ Implementation Phases
+
+### 1. Data Onboarding
+I uploaded raw system logs and configured the indexing properties to ensure fields like `user`, `IP`, and `status` were correctly parsed.
+
+![Ingestion]
+
+### 2. Threat Hunting with SPL
+I performed a deep-dive analysis to find authentication failures. I discovered a pattern of 6 failed login attempts for the user "ali" from IP `192.168.1.15`.
+
+![Analysis]
+
+### 3. Automated Alerting
+To ensure 24/7 monitoring, I created a **Scheduled Alert** that triggers when multiple failed logins occur within a short window.
+
+![Alerting]
+
+---
+
+## 🔑 Key Learning Outcomes
+* Mastered the **data lifecycle**: Ingestion -> Indexing -> Searching -> Alerting.
+* Gained proficiency in **SPL** for security investigation.
+* Developed an understanding of **Brute-Force attack patterns** in system logs.
+
+* Mastered the **data lifecycle**: Ingestion -> Indexing -> Searching -> Alerti* Gained proficiency in **SPL** for security investigation.
+* Developed an understanding of **Brute-Force attack patterns** in system logs.
