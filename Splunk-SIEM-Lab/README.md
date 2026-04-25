@@ -1,3 +1,4 @@
+# 🚀 Splunk SIEM Lab: Brute-Force Detection
 <img width="956" height="482" alt="project1_1" src="https://github.com/user-attachments/assets/dec61bf7-8b99-47a6-9dd1-0d60e41aa684" />
 <img width="960" height="422" alt="project1_2" src="https://github.com/user-attachments/assets/1ca58b6c-161e-40be-bc35-31300dc3a582" />
 <img width="946" height="416" alt="project1_3" src="https://github.com/user-attachments/assets/4b8cdd74-f168-42ab-801e-207205a7270e" />
@@ -9,7 +10,7 @@
 <img width="959" height="416" alt="project1_9" src="https://github.com/user-attachments/assets/8ab1adf7-993b-45be-8343-92fd0b5040d4" />
 <img width="543" height="345" alt="project1_10" src="https://github.com/user-attachments/assets/fdefc401-a1ef-4810-894d-95ca917845a1" />
 <img width="959" height="290" alt="project1_11" src="https://github.com/user-attachments/assets/7897f2f2-8887-41db-ab61-d09a72f114b5" />
-# 🚀 Splunk SIEM Lab: Brute-Force Detection
+
 
 ## 📋 Project Description
 In this lab, I established a local SOC (Security Operations Center) environment using **Splunk Enterprise**. I simulated a real-world attack scenario by ingesting authentication logs and identifying malicious activity using Search Processing Language (SPL).
