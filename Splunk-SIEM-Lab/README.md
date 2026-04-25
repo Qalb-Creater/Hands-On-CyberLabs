@@ -24,7 +24,7 @@ I uploaded raw system logs and configured the indexing properties to ensure fiel
 ![Ingestion]
 
 ### 2. Threat Hunting with SPL
-I performed a deep-dive analysis to find authentication failures. I discovered a pattern of 6 failed login attempts for the user "ali" from IP `192.168.1.15`.
+I performed a deep-dive analysis to find authentication failures. I discovered a pattern of failed login attempts for the "User" from different IPs, Window Failed logins.
 
 ![Analysis]
 
