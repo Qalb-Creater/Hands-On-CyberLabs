@@ -23,12 +23,12 @@ Using Wireshark, I identified critical indicators of the attack:
 
 | 1. Attack Simulation | 2. Network Analysis |
 | :---: | :---: |
-| ![Attack Launch](./p3_5.png) | ![Wireshark Analysis](./p3_11.png) |
+| ![Attack Launch](./p3_5.png) | ![Wireshark Analysis](./p3_6.png) |
 | *Launching the SYN Flood via hping3* | *Analyzing Randomized Source IPs in Wireshark* |
 
 | 3. Mitigation Strategy | 4. Final Results |
 | :---: | :---: |
-| ![Firewall Rules](./p3_13.png) | [Full Report Link](./DoS%20Attack%20Simulation%20&%20Analysis.pdf) |
+| ![Firewall Rules](./p3_11.png) | [Full Report Link](./DoS%20Attack%20Simulation%20&%20Analysis.pdf) |
 | *Implementing iptables Rate-Limiting* | *Click to view complete technical documentation* |
 
 ## 🧱 Mitigation Strategy
