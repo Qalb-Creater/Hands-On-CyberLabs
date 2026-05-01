@@ -11,3 +11,6 @@ A collection of my cybersecurity projects, including SIEM analysis, Penetration 
 
 ### 📊 [Splunk SIEM Lab](./Splunk-SIEM-Lab/)
 * **Focus:** Operationalizing log data for real-time monitoring and alerting.
+
+### 🛡️ [DoS Attack Simulation & Analysis](./DoS-Attack-Simulation)
+* **Focus:** Simulating TCP SYN Floods and implementing iptables mitigation.
