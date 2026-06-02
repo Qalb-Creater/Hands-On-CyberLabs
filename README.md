@@ -14,3 +14,7 @@ A collection of my cybersecurity projects, including SIEM analysis, Penetration 
 
 ### 🛡️ [DoS Attack Simulation & Analysis](./DoS-Attack-Simulation)
 * **Focus:** Simulating TCP SYN Floods and implementing iptables mitigation.
+
+🛡️ [CyberVault Cryptographic System](./CyberVault-Cryptographic-System)
+* **Focus:** Practical implementation of symmetric/asymmetric cryptographic algorithms, tamper detection, and brute force mitigation.
+* **Skills:** C++ system logic, OpenSSL integration, secure audit logging, and legacy vs. modern cipher performance evaluation[cite: 1].
